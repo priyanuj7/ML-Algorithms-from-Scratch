@@ -1,1 +1,0 @@
-Codes from scratch for linear regression, ridge regression using Gradient Descent and OLS
