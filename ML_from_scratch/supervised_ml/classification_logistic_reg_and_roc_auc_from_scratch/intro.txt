@@ -1,1 +1,0 @@
-Code from scratch for logistic regression and roc_auc 
